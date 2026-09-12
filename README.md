@@ -10,8 +10,8 @@
 <p align="center">
   <a href="https://arusuka.my.id"><img src="https://img.shields.io/badge/Website-arusuka.my.id-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/fahmi-rizal"><img src="https://img.shields.io/badge/LinkedIn-Fahmi_Rizal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://t.me/fahmirizal96"><img src="https://img.shields.io/badge/Telegram-@fahmirizal96-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:fahmirizal96@gmail.com"><img src="https://img.shields.io/badge/Email-fahmirizal96@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/fahmi_rizal"><img src="https://img.shields.io/badge/Telegram-@fahmi_rizal-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:fahmi_rizal@gmail.com"><img src="https://img.shields.io/badge/Email-fahmi_rizal@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 </div>
