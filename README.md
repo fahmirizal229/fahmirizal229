@@ -119,8 +119,8 @@
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=fahmirizal229&theme=tokyonight&hide_border=true&background=0a0d18&stroke=818cf8&ring=818cf8&fire=34d399&currStreakLabel=34d399" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fahmirizal229&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0d18&title_color=818cf8&icon_color=34d399&text_color=cbd5e1" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=fahmirizal229&theme=tokyonight&hide_border=true&background=0a0d18&stroke=818cf8&ring=818cf8&fire=34d399&currStreakLabel=34d399" alt="GitHub Streak" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahmirizal229&theme=tokyonight" alt="GitHub Profile Summary" width="49%" />
 </div>
 
 <br />
